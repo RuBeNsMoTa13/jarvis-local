@@ -1,0 +1,26 @@
+# Ambientes Virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de Áudio Temporários (Gerados pelo seu script)
+*.mp3
+*.wav
+*.ogg
+ARQUIVO_AUDIO_TEMP
+
+# Arquivos do Sistema/IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos de Configuração com Dados Sensíveis
+# (Se você criar um .env no futuro, ele deve estar aqui)
+.env
